@@ -94,7 +94,7 @@ public class SmartDevice {
                 1.4,
                 "Bluetooth",
                 true );
-        
+
         System.out.println("******************************");
         System.out.println("SmartPhone: " + smartPhone);
         System.out.println("******************************");
